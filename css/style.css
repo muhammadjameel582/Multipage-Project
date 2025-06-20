@@ -376,7 +376,7 @@ section {
 /* About Section */
 
 .landing_about_section {
-    background: url(./images/about/about-banner.jpg);
+    background: url(/images/about/about-banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
