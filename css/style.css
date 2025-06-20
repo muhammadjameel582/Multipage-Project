@@ -376,7 +376,7 @@ section {
 /* About Section */
 
 .landing_about_section {
-    background: url(/images/about/about-banner.jpg);
+    background: url(../images/about/about-banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -451,7 +451,7 @@ section {
     border-radius: 50%;
 }
 .testimonial_section .card {
-    background: url(/images/testimonial/testimonial-bg.png);
+    background: url(../images/testimonial/testimonial-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
